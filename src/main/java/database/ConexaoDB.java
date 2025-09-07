@@ -10,7 +10,7 @@ public class ConexaoDB {
 
     private static final String URL = "jdbc:mysql://localhost:3306/garagem_db";
     private static final String USER = "root";
-    private static final String PASS = "Ravena12*";
+    private static final String PASS = "Rav";
 
     public static Connection getConnection() {
         try {
